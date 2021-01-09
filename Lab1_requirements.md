@@ -81,18 +81,7 @@ This is a relative link to [my profile page](index.md)
 - Chicken alfredo 
 - Papperoni pizza
 - Cheese burger
-
-## Extras:
-## Table
-| Graphics cards | Status               |
-| -------------- | -------------------- |
-| Rtx 3080ti     | The one I want       |
-| GeForce 1080ti | Best one I have used |
-| GeForce 980ti  | The one on my PC     |
-
-## Emoji
-I don't even know makrdown supports emoji :+1:
-
+- 
 ## Checklist for requirements:
 - [x] Headings
 - [x] Styling text
@@ -104,6 +93,17 @@ I don't even know makrdown supports emoji :+1:
 - [x] Lists
 - [x] Task Lists
 - [x] Pictures
-- [x] Tables
-- [x] Emojis
+- [x] Extras
+
+## Extras:
+### These work when rendered directly inside the github repo. Not fully functional when rendered as a site.
+## Table
+| Graphics cards | Status               |
+| -------------- | -------------------- |
+| Rtx 3080ti     | The one I want       |
+| GeForce 1080ti | Best one I have used |
+| GeForce 980ti  | The one on my PC     |
+
+## Emoji
+I don't even know makrdown supports emoji :+1:. But this doesn't seem to work under all environments.
   

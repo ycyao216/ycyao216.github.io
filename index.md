@@ -43,7 +43,7 @@ It feels like an idea, but also not an idea.
 
 ## Todo list for this user page:
 - [x] make the index.md page
-- [ ] Fill the index.md page with more relavent information
+- [x] Fill the index.md page with more relavent information
 - [ ] Improve description of past experiences
 - [ ] Pick a theme, and beautify this page
 - [ ] Clean up unnecessary info
@@ -54,6 +54,7 @@ It feels like an idea, but also not an idea.
    ```
    $ git clone https://github.com/ycyao216/ycyao216.github.io.git
    $ cd ycyao216.github.io
+   ```
 3. You can now view everything in detail
 
 [Go back to the top](#evan-yao's-user-info)
