@@ -2,7 +2,7 @@
 
 ## Table of content for graders:
 ### (These are already section links)
-[Pictures](#picture-of-my-cat)
+[Pictures](#picture-of-my-cat-name-is-pudding)
 
 [Headings](#some-random-facts)
 
@@ -30,7 +30,7 @@
 # Some random facts:
 
 ## Picture of my cat (name is pudding):
-![Cat](cap.jpeg)
+![Cat](cat.jpeg)
 
 ## Words from my friends and professors:
 **My friends told me:**
